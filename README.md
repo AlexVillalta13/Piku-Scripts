@@ -1,4 +1,4 @@
-# Super Tactics - Scripts
+# Piku - Scripts
 
 This project is a mobile game developed with Unity, available for Android. Here you will find only the C# scripts to show my work to potential recruiters or workers.
 
